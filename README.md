@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Nwokolo Victor Oluebubechukwu 👋
 
-<!--
-**nevodesigns/nevodesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Known professionally as NEVO Designs  Robotics engineer in training, 
+SolidWorks CAD Designer & Software Engineering student at Miva Open University.
 
-Here are some ideas to get you started:
+ What I'm building
+- 🤖 Autonomous systems & ROS 2 (Aurora Robotics Core Workshop 2.0)
+- 🔧 SolidWorks 3D modelling & prototyping
+- 💻 C++ & Python for robotics by BAKEL BAKEL of AURORA ROBOTICS
+- 📝 Documenting everything via #BuildingAutonomy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+- 🏢 SIWES II Industrial Placement @ Kodebit Ltd, Lagos
+- 🚗 Aurora Robotics Associate Autonomous Vehicles Cohort
+- 📖 300-level Software Engineering @ Miva Open University
+
+ Find me
+- 🐦 Twitter: [@nevo_design](https://twitter.com/nevo_design)
+- ✍️ Medium: [medium.com/@nevo_design](https://medium.com/@nevo_design)
+- 💼 LinkedIn: linkedin.com/in/nevodesigns
+- 📍 Lagos, Nigeria
