@@ -17,5 +17,5 @@ Currently
  Find me
 - 🐦 Twitter: [@nevo_design](https://twitter.com/nevo_design)
 - ✍️ Medium: [medium.com/@nevo_design](https://medium.com/@nevo_design)
-- 💼 LinkedIn: linkedin.com/in/nevodesigns
+- 💼 LinkedIn: https://www.linkedin.com/in/nwokolo-victor-oluebubechukwu-051ba8254
 - 📍 Lagos, Nigeria
